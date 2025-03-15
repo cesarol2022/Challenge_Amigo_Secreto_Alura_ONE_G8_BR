@@ -20,7 +20,7 @@
 - linha 3 a 38 -->`function adicionarAmigo(){}`.
 - [x] Crie uma função que percorra o array amigos e adicione cada nome como um elemento `<li>` dentro de uma lista HTML, use innerHTML para limpar a lista antes de adicionar novos elementos.
 - linha 41 a 50 -->`function exibirAmigos(){}`.
-- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados
+- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados.
 - linha 57 a 67 -->`function sortearAmigo(){}`.
 - [x] Escreva uma função que selecione os nomes armazenados. 
 - linha 68 a 71 -->`function limparCampo(){}`.
