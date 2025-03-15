@@ -14,6 +14,7 @@
 - Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ## Roteiro:
+Nome do aplicativo: "app.js"
 - [x] Crie um array para armazenar os nomes.
 - linha 1 -->`let listaAmigos = [];`.
 - [x] Desenvolva uma função que permita ao jogador inserir um nome no campo de texto e adicioná-lo à lista de amigos criada anteriormente.
