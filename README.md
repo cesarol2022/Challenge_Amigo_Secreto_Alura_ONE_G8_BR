@@ -35,7 +35,7 @@
 - Foi adicionado um botão de "Novo Sorteio".
 - Ao invés de estático a cor do botão sortear só terá cor e estará habilitado a partir de dois nomes adicionados.
 - O botão "Adicionar" agora tem cor igual ao sortear ao passar o mouse encima.
-- A cor do "amigo sorteado" foi mudada para `azul (#4B69FD)` para familiarização das cores.
+- A cor do "amigo sorteado" foi mudada para `azul (#4B69FD)` para combinar com as cores.
 
 ## 📘 Documentação
 - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
