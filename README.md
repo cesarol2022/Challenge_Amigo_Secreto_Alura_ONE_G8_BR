@@ -24,7 +24,7 @@
 - linha 41 a 50 -->`function exibirAmigos(){}`.
  
 ## 🔄 *Mudanças*
-- Foi adicionado um botão de "novo sorteio".
+- Foi adicionado um botão de "Novo Sorteio".
 - Ao invés de estático a cor do botão sortear só terá cor e estará habilitado a partir de dois nomes adicionados.
 - O adicionar agora tem cor igual ao sortear ao passar o mouse encima.
 - A cor do amigo sorteado foi mudada para `azul (#4B69FD)` para familiarização das cores.
