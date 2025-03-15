@@ -56,7 +56,7 @@ function exibeSorteado(tag,texto){
 
 function sortearAmigo(){
     let amigoSorteado = listaAmigos[Math.floor(Math.random()* listaAmigos.length)];
-    //testes
+    // testes
     // console.log(amigoSorteado);
     // console.log(listaAmigos);
     exibeSorteado('#resultado',`O amigo sorteado é: ${amigoSorteado} `);
