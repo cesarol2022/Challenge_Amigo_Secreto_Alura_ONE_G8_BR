@@ -18,12 +18,12 @@
 - linha 1 -->`let listaAmigos = [];`
 - [x] Desenvolva uma função que permita ao jogador inserir um nome no campo de texto e adicioná-lo à lista de amigos criada anteriormente.
 - linha 3 a 38 -->`function adicionarAmigo(){}`
-- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
-- linha 57 a 67 -->`function sortearAmigo(){}`
 - [x] Crie uma função que percorra o array amigos e adicione cada nome como um elemento `<li>` dentro de uma lista HTML, use innerHTML para limpar a lista antes de adicionar novos elementos.
 - linha 41 a 50 -->`function exibirAmigos(){}`.
- 
-## 🔄 *Mudanças*
+- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
+- linha 57 a 67 -->`function sortearAmigo(){}`
+
+ ## 🔄 *Mudanças*
 - Foi adicionado um botão de "Novo Sorteio".
 - Ao invés de estático a cor do botão sortear só terá cor e estará habilitado a partir de dois nomes adicionados.
 - O botão "Adicionar" agora tem cor igual ao sortear ao passar o mouse encima.
