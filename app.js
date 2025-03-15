@@ -16,7 +16,7 @@ function adicionarAmigo(){
     for(i=0;i<listaAmigos.length;i++){
         if(amigo == listaAmigos[i]){
             Swal.fire({
-                title: "Nome já inserido!",
+                title: "Não pode inserir o mesmo nome da pessoa 2 vezes!",
                 text: "Se for outra pessoa por favor colocar o sobrenome",
                 icon: "error",
                 confirmButtonText: "OK",
