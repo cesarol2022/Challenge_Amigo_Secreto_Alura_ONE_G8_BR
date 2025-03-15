@@ -15,15 +15,17 @@
 
 ## Roteiro:
 - [x] Crie um array para armazenar os nomes.
-- linha 1 -->`let listaAmigos = [];`
+- linha 1 -->`let listaAmigos = [];`.
 - [x] Desenvolva uma função que permita ao jogador inserir um nome no campo de texto e adicioná-lo à lista de amigos criada anteriormente.
-- linha 3 a 38 -->`function adicionarAmigo(){}`
+- linha 3 a 38 -->`function adicionarAmigo(){}`.
 - [x] Crie uma função que percorra o array amigos e adicione cada nome como um elemento `<li>` dentro de uma lista HTML, use innerHTML para limpar a lista antes de adicionar novos elementos.
 - linha 41 a 50 -->`function exibirAmigos(){}`.
-- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
-- linha 57 a 67 -->`function sortearAmigo(){}`
-- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
-- linha 68 a 71 -->`function sortearAmigo(){}`
+- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados
+- linha 57 a 67 -->`function sortearAmigo(){}`.
+- [x] Escreva uma função que selecione os nomes armazenados. 
+- linha 68 a 71 -->`function limparCampo(){}`.
+- [x] Escreva uma função para um novo sorteio. 
+- linha 72 a 82 -->`function novoSorteio(){}`.
 
 
 
