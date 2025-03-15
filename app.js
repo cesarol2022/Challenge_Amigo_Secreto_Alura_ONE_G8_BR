@@ -4,7 +4,7 @@ function adicionarAmigo(){
     let amigo = document.querySelector('input').value;
     if(!amigo){
         Swal.fire({
-            title: "Erro ao inserir nome!",
+            title: "Erro ao digitar nome!",
             text: "Por favor insira um nome válido.",
             icon: "error",
             confirmButtonText: "OK",
