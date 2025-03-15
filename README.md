@@ -1,14 +1,14 @@
 
 # Alura | Challenge amigo secreto
 ## Objetivo:
-*Neste desafio faça um aplicativo em JavaScript, que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".*
+*Neste desafio faça um aplicativo em JavaScript, que permita aos jogadores inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".*
 
 ## Instruções:
-- O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
+- O jogador deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
 - Os nomes inseridos serão exibidos em uma lista visível na página, e ao finalizar, um botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela.
 
 ## Funcionalidades:
- - Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+ - Adicionar nomes: Os jogadores escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 - Validar entrada: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
 - Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 - Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
@@ -16,7 +16,7 @@
 ## Roteiro:
 - [x] Crie um array para armazenar os nomes.
 - linha 1 -->`let listaAmigos = [];`
-- [x] Desenvolva uma função que permita ao usuário inserir um nome no campo de texto e adicioná-lo à lista de amigos criada anteriormente.
+- [x] Desenvolva uma função que permita ao jogador inserir um nome no campo de texto e adicioná-lo à lista de amigos criada anteriormente.
 - linha 3 a 38 -->`function adicionarAmigo(){}`
 - [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
 - linha 57 a 67 -->`function sortearAmigo(){}`
