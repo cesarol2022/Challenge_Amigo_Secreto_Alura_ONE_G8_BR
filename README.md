@@ -3,7 +3,7 @@
 ## Objetivo:
 
 *Neste desafio 
-Criar um aplicativo em JavaScript, você desenvolverá uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".*
+Criar um aplicativo em JavaScript, que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".*
 
 ## Instruções
 - O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
