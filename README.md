@@ -31,9 +31,9 @@
 
 - [x] Crie uma função que percorra o array amigos e adicione cada nome como um elemento `<li>` dentro de uma lista HTML, use innerHTML para limpar a lista antes de adicionar novos elementos.
 - linha 41 á 50 -->`function exibirAmigos(){}`.
-- 
+ 
 ## 🔄 *Mudanças*
-- Adição de um botão novo sorteio.
+- Foi adicionado um botão de "novo sorteio".
 - Ao invés de estático a cor do botão sortear só terá cor e estará habilitado a partir de dois nomes adicionados.
 - O adicionar agora tem cor igual ao sortear ao passar o mouse encima.
 - A cor do amigo sorteado foi mudada para `azul (#4B69FD)` para familiarização das cores.
