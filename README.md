@@ -28,9 +28,9 @@ Nome do arquivo em JavaScript: "app.js".
 - [x] Escreva uma função para um novo sorteio. 
 - linha 72 a 82 -->`function novoSorteio(){}`.
  
-Nome do arquivo em HTML: "index.html".
-Nome do arquivo em CSS: "style.css".
-Nome do arquivo em Markdown: "README.md".
+Nome do arquivo em HTML: "index.html"
+Nome do arquivo em CSS: "style.css"
+Nome do arquivo em Markdown: "README.md"
 Pasta ou Diretório onde está armazenado tudo que pode ser usado por todos esse arquivos: "assets".   
 
  ## 🔄 *Mudanças*
