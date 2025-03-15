@@ -22,6 +22,12 @@
 - linha 41 a 50 -->`function exibirAmigos(){}`.
 - [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
 - linha 57 a 67 -->`function sortearAmigo(){}`
+- [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
+- linha 57 a 67 -->`function sortearAmigo(){}`
+
+
+
+
 
  ## 🔄 *Mudanças*
 - Foi adicionado um botão de "Novo Sorteio".
