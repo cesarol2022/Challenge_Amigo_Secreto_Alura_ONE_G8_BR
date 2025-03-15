@@ -5,7 +5,7 @@ function adicionarAmigo(){
     if(!amigo){
         Swal.fire({
             title: "Erro ao digitar nome!",
-            text: "Por favor insira um nome válido.",
+            text: "Por favor digite um nome válido.",
             icon: "error",
             confirmButtonText: "OK",
             timer: 3000
