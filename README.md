@@ -23,7 +23,7 @@
 - [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
 - linha 57 a 67 -->`function sortearAmigo(){}`
 - [x] Escreva uma função que selecione aleatoriamente um dos nomes armazenados no array amigos
-- linha 68 a 70 -->`function sortearAmigo(){}`
+- linha 68 a 71 -->`function sortearAmigo(){}`
 
 
 
