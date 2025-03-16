@@ -36,7 +36,7 @@ Nome do arquivo em Markdown: "README.md".
 
 Nome da pasta ou diretório onde está armazenado tudo que pode ser usado por todos esse arquivos: "assets".
 
-Nome dos arquivos do diretório "assets":
+Nome dos arquivos de imagens do diretório "assets":
 "Tela inicio jogo.png", "amigo-secreto.png" e "tecla com icone de jogar.png".
 
  ## 🔄 *Mudanças*
