@@ -52,7 +52,7 @@ Nome da pasta ou diretório onde está armazenado tudo que pode ser usado por to
 - [Curso git e Github](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos)
 - [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
 
-  ## 📽️ Video de seu funcionamento
+  ## 📽️ Video com a explicação deste jogo no YouTube
   - [youtube](https://youtu.be/) Obs.: Completar o link quando houver um video seu sobre este aplicativo para o Youtube.
 
 <img src="assets/Tela inicio jogo.png">
