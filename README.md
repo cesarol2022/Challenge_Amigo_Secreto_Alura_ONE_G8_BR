@@ -55,4 +55,4 @@ Pasta ou Diretório onde está armazenado tudo que pode ser usado por todos esse
   ## 📽️ Video de seu funcionamento
   - [youtube](https://youtu.be/) Obs.: Completar o link quando houver um video seu sobre este aplicativo para o Youtube.
 
-<img src="assets/Captura de tela 2025-02-15 133237.png">
+<img src="assets/Tela inicio jogo.png">
