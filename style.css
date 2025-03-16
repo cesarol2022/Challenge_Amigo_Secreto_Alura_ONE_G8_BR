@@ -169,6 +169,6 @@ ul {
 /* .button-draw:hover (altera a aparencia do botão quando passa o cursor do mouse sobre ele) {
     background-color: var(--color-button-hover);
 } */
-button:disabled {
+.button:disabled {
     background-color: gray;
 }
