@@ -1,7 +1,7 @@
 
 # Alura ONE G8 BR - Tarefa da Fase 1: Challenge amigo secreto
 ## Objetivo:
-*Neste desafio faça um aplicativo em JavaScript, que permita aos jogadores inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".*
+*Neste desafio faça um aplicativo em JavaScript, que permita aos jogadores digitar nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".*
 
 ## Instruções:
 - O jogador deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
