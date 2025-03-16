@@ -34,7 +34,7 @@ Nome do arquivo em CSS: "style.css".
 
 Nome do arquivo em Markdown: "README.md".
 
-Pasta ou Diretório onde está armazenado tudo que pode ser usado por todos esse arquivos: "assets".   
+Nome da pasta ou diretório onde está armazenado tudo que pode ser usado por todos esse arquivos: "assets".   
 
  ## 🔄 *Mudanças*
 - Foi adicionado um botão de "Novo Sorteio".
